@@ -14,3 +14,6 @@ Some exercises from the "FAHRPLAN" of the BHT module Data Science 2022
     - Data Cleaning Challenge Day 3: https://github.com/githtestaccount/DS2022-tm/blob/main/data-cleaning-challenge-parsing-dates.ipynb (code is there but due to Kaggle Error no plots)
     - Data Cleaning Challenge Day 4: https://github.com/githtestaccount/DS2022-tm/blob/main/data-cleaning-challenge-character-encodings.ipynb (Kaggle Error no plots)
     - Data Cleaning Challenge Day 5: https://github.com/githtestaccount/DS2022-tm/blob/main/data-cleaning-challenge-inconsistent-data-entry.ipynb (Kaggle Error no plots)
+- Regression
+  - Exercise 1: https://github.com/githtestaccount/DS2022-tm/blob/main/ds2022-reg-e1-linear-regression-audio-data.ipynb
+  - Exercise 2: https://github.com/githtestaccount/DS2022-tm/blob/main/reg-e2-iris-logistic-regression.ipynb
