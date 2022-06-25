@@ -17,6 +17,7 @@ Some exercises from the "FAHRPLAN" of the BHT module Data Science 2022
 - Regression
   - Exercise 1: https://github.com/githtestaccount/DS2022-tm/blob/main/ds2022-reg-e1-linear-regression-audio-data.ipynb
   - Exercise 2: https://github.com/githtestaccount/DS2022-tm/blob/main/reg-e2-iris-logistic-regression.ipynb
-- 09.6 Instance-Based Methods / Classification
+- Instance-Based Methods / Classification
   - IBM Exercise 1: https://github.com/githtestaccount/DS2022-tm/blob/main/IBM_Exercise_1.ipynb
   - IBM Exercise 2: https://github.com/githtestaccount/DS2022-tm/blob/main/IBM_Exercise_2.ipynb
+- Decision Trees Exercises A, B: https://github.com/githtestaccount/DS2022-tm/blob/main/Excercises_DET.ipynb
