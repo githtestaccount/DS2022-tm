@@ -21,3 +21,4 @@ Some exercises from the "FAHRPLAN" of the BHT module Data Science 2022
   - IBM Exercise 1: https://github.com/githtestaccount/DS2022-tm/blob/main/IBM_Exercise_1.ipynb
   - IBM Exercise 2: https://github.com/githtestaccount/DS2022-tm/blob/main/IBM_Exercise_2.ipynb
 - Decision Trees Exercises A, B: https://github.com/githtestaccount/DS2022-tm/blob/main/Excercises_DET.ipynb
+- Clustering Exercise: https://github.com/githtestaccount/DS2022-tm/blob/main/Exercise_CLU.ipynb
